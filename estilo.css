@@ -16,7 +16,7 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
     background-color: rgb(12, 205, 244);
     width: 60px;
     height: 40px;
-    border-style: dashed;
+    border-style: double;
 
 
 }
