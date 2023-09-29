@@ -1,2 +1,3 @@
-
-alert("Hello world!");
+function llama(){
+    alert("Hello world!");
+}
