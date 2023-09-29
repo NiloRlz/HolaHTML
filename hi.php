@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1> Hola mundo de PHP <?php echo "PIT"; ?></h1>
+    <h1> Hola mundo de PHP <?php echo "2"; ?></h1>
 
  
 </body>
