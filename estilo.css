@@ -12,8 +12,9 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
     border-style: groove;
     box-shadow: 1px 2px 1px 0px rgb(79, 79, 79);
 }
-.butt2{
-    width: 50px;
+.btt2{
+    background-color: rgb(12, 205, 244);
+    width: 60px;
     height: 40px;
     border-style: dashed;
 
