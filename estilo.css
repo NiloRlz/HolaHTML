@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(172, 172, 172);
+}
+.butt{
+    
+    width: 100px;
+    color: #000000;
+    background-color: rgb(219, 219, 219);
+    border-style: groove;
+    box-shadow: 1px 2px 1px 0px rgb(79, 79, 79);
+}
+.butt2{
+    width: 50px;
+    height: 40px;
+    border-style: dashed;
+
+}
+h1{
+    color: red;
+    justify-content: center;
+    font-size: 40px;
+}
+.con{
+    
+    justify-content: center;
+}
