@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pixelify+Sans&display=swap');
+
 body{
 background: #0F2027;  /* fallback for old browsers */
 background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
@@ -27,7 +29,27 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 
 }
 h1{
-    color: red;
+
+font-family: 'Pixelify Sans', cursive;
+    color: rgb(0, 0, 0);
     text-align: center;
-    font-size: 40px;
+    font-size: 28px;
+    text-shadow: 1px 1px 10px rgb(39, 226, 255);
+    border-width: 20px;
+
+    
+}
+.con{
+    background-color: #333333;
+    height: 300px;
+    width: 400px;
+    border-style: inherit;
+    box-shadow: 5px 1px 10px rgb(11, 226, 255);
+    border-radius: 50%;
+    display: grid ;
+    grid-template-columns : repeat (auto-fit , minmax(8em, 1fr));
+    margin: auto;
+    grid-gap: .5rem;
+
+  
 }
