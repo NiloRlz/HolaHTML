@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(172, 172, 172);
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .butt{
     
@@ -14,9 +17,10 @@ body{
     height: 40px;
     border-style: dashed;
 
+
 }
 h1{
     color: red;
-    justify-content: center;
+    text-align: center;
     font-size: 40px;
 }
